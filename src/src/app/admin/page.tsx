@@ -7,7 +7,7 @@ export default async function AdminIndex() {
         Welcome back
       </h1>
       <div>
-        <pre>{JSON.stringify(appConfig.currentUser, null, 2)}</pre>
+        <pre>{JSON.stringify(appConfig., null, 2)}</pre>
       </div>
     </div>
   )
